@@ -1,7 +1,4 @@
 # Simon-Says-Game
-# Project Name
-
-Description of your project.
 
 ## Features
 - **Interactive Gameplay:** Click or tap on the colored buttons to repeat the sequence.
