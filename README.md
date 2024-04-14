@@ -5,9 +5,10 @@ Description of your project.
 
 ## Features
 
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- ...
+**- Interactive Gameplay:** Click or tap on the colored buttons to repeat the sequence.
+**- Randomized Sequences:** The game generates random sequences to keep the gameplay challenging.
+**- Score Tracking:** Keep track of your score to see how well you're doing.
+
 
 ## Installation
 
